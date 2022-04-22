@@ -1,32 +1,30 @@
 export default {
-  author: "Sam Xie",
+  author: "Miles Eu",
   hero: {
-    subtitle: "Software engineer at Cash App.",
-    description: "Building reliable and scalable systems by day. Leveraging technology to launch fully featured products by night.",
-    cta: "Browse Products",
+    subtitle: "Computer Science MSc Student at University of Bath.",
+    description: "This is my guide and roadmap on becoming a developer.",
+    cta: "See Roadmap",
   },
   products: {
     featured: [
       {
-        name: "DoubleText",
-        medium: "React · GraphQL · Golang",
-        summary: "The #1 Facebook Messenger analyzer.",
+        name: "roadmap.sh",
+        medium: "Roadmaps · Guides · Videos",
+        summary: "A community collection of educational content to help guide developers.",
         copy: [
-          "See millions of messages at a glance, without data leaving your computer."
+          "Choose your path: Frontend, Backend."
         ],
         links: {
           color: "#363636",
           primary: {
             name: "Discover",
-            url: "https://doubletext.me/"
+            url: "https://roadmap.sh/"
           }
         },
         images: [
-          "/doubletext/0.jpg",
-          "/doubletext/1.jpg",
-          "/doubletext/2.jpg",
-          "/doubletext/3.jpg",
-          "/doubletext/4.jpg"
+          "/roadmap/0.png",
+          "/roadmap/1.png",
+          "/roadmap/2.png"
         ]
       },
       {
@@ -99,31 +97,21 @@ export default {
   ]
   },
   footer: {
-    tagline: "Sam Xie — Melbourne, Australia",
+    tagline: "Miles YY Eu — Bristol, UK",
     links: [
       {
-        name: "Twitter",
-        url: "https://twitter.com/samxstudio",
-        fa: "fab fa-twitter" // Code from: https://fontawesome.com/v5/icons/twitter?s=brands
-      },
-      {
-        name: "Medium",
-        url: "https://medium.com/@samxie",
-        fa: "fab fa-medium"
-      },
-      {
         name: "Github",
-        url: "https://github.com/samzx",
+        url: "https://github.com/mileseu",
         fa: "fab fa-github"
       },
       {
         name: "Linkedin",
-        url: "https://www.linkedin.com/in/xiesam/",
+        url: "https://www.linkedin.com/in/mileseu/",
         fa: "fab fa-linkedin"
       },
       {
         name: "Email",
-        url: "mailto:contact@samxie.net",
+        url: "mailto:mileseu@me.com",
         fa: "fa fa-envelope"
       },
     ]
