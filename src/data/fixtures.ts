@@ -42,9 +42,9 @@ export default {
           }
         },
         images: [
-          "/cs50/0.jpg",
-          "/cs50/1.jpg",
-          "/cs50/2.jpg",
+          "/cs50/0.png",
+          "/cs50/1.png",
+          "/cs50/2.png",
         ]
       }
     ],
@@ -52,7 +52,7 @@ export default {
     minor: [
       {
         name: "Tech Interview Handbook",
-        description: "Free curated interview preparation materials for busy people.",
+        description: "Preparation material.",
         link: {
           name: "Read",
           url: "https://www.techinterviewhandbook.org/"
