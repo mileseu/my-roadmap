@@ -1,13 +1,12 @@
 # Soft Portfolio
 
-<img src="./public/softportfolio/screenshot.png" />
 
-A neumorphic inspired personal website and portfolio.
-- Showcase your project screenshots with carousels
-- Link up your social and other links
+A roadmap inspired by https://samxie.net/ portfolio website.
+- Showcased project screenshots with carousels
+- Linked socials and other links
 - Supports light and dark mode 💡
 
-Demo: https://samxie.net/
+https://my-roadmap-ten.vercel.app/
 
 ## Deploy your own
 
