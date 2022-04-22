@@ -2,7 +2,7 @@ export default {
   author: "Miles Eu",
   hero: {
     subtitle: "Computer Science MSc Student at University of Bath.",
-    description: "This is my guide and roadmap on becoming a developer.",
+    description: "This is my guide and roadmap on becoming a developer and the best sites to learn.",
     cta: "See Roadmap",
   },
   products: {
@@ -28,53 +28,55 @@ export default {
         ]
       },
       {
-        name: "ClimbList",
-        medium: "React · Next.js",
-        summary: "Construction is now in progress.",
+        name: "CS50",
+        medium: "Beginner · C · Python · SQL",
+        summary: "CS50: Introduction to Computer Science.",
         copy: [
-          "Compare and track grades and pricing between gyms around the country.",
+          "An introduction to the intellectual enterprises of computer science and the art of programming.",
         ],
         links: {
           color: "#363636",
           primary: {
             name: "Learn more",
-            url: "https://climblist.com/"
+            url: "https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0"
           }
         },
         images: [
-          "/climblist/0.jpg",
-          "/climblist/1.jpg",
+          "/cs50/0.jpg",
+          "/cs50/1.jpg",
+          "/cs50/2.jpg",
         ]
       }
     ],
     // Only supports 0-3 at the moment
     minor: [
       {
-        name: "Volunteer Portal",
-        description: "Find and track volunteer opportunities.",
+        name: "Tech Interview Handbook",
+        description: "Free curated interview preparation materials for busy people.",
         link: {
-          name: "Github",
-          url: "https://github.com/zendesk/volunteer_portal"
+          name: "Read",
+          url: "https://www.techinterviewhandbook.org/"
         }
       },
       {
-        name: "Final Slash VR",
-        description: "Short survival experience on an abandoned planet.",
+        name: "LeetCode",
+        description: "Challenge yourself to coding problems.",
         link: {
-          name: "Download",
-          url: "https://samzx.itch.io/final-slash-vr"
+          name: "Code",
+          url: "https://leetcode.com/explore/"
         }
       },
       {
-        name: "MPH Watch",
-        description: "Stats for miners mining on Mining Pool Hub.",
+        name: "Big-O Cheat Sheet",
+        description: "Know Thy Complexities!",
         link: {
           name: "Demo",
-          url: "https://mphwatch.samxie.net/demo"
+          url: "https://www.bigocheatsheet.com/"
         }
       }
     ]
   },
+  /*
   logoSection: {
     title: "As hired by",
     // Only supports 0-3 at the moment
@@ -96,6 +98,7 @@ export default {
       }
   ]
   },
+*/
   footer: {
     tagline: "Miles YY Eu — Bristol, UK",
     links: [
