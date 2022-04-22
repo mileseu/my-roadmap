@@ -76,29 +76,17 @@ export default {
       }
     ]
   },
-  /*
   logoSection: {
-    title: "As hired by",
+    title: "University:",
     // Only supports 0-3 at the moment
     logos: [
       {
-        src: "/logos/unimelb.svg",
-        url: "https://unimelb.edu.au/",
-        alt: "Unimelb"
-      },
-      {
-        src: "/logos/zendesk.svg",
-        url: "https://www.zendesk.com/",
-        alt: "Zendesk"
-      },
-      {
-        src: "/logos/cashapp.svg",
-        url: "https://cash.app/",
-        alt: "Cash App"
+        src: "/logos/logo.png",
+        url: "https://www.bath.ac.uk/",
+        alt: "Unibath"
       }
   ]
   },
-*/
   footer: {
     tagline: "Miles YY Eu — Bristol, UK",
     links: [
