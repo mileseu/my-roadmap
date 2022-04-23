@@ -2,7 +2,7 @@ export default {
   author: "Miles Eu",
   hero: {
     subtitle: "Computer Science MSc Student at University of Bath.",
-    description: "This is my guide and roadmap on becoming a developer and the best sites to learn.",
+    description: "This is my roadmap and resource guide on becoming a developer.",
     cta: "See Roadmap",
   },
   products: {
@@ -46,8 +46,27 @@ export default {
           "/cs50/1.png",
           "/cs50/2.png",
         ]
-      }
-    ],
+      },
+      {
+      name: "Automate The Boring Stuff With Python",
+      medium: "Beginner · Python · Automation",
+      summary: "Practical Programming for Total Beginners.",
+      copy: [
+        "Practice making Python programs to create useful and impressive feats of automation.",
+      ],
+      links: {
+        color: "#363636",
+        primary: {
+          name: "Code more",
+          url: "https://automatetheboringstuff.com/"
+        }
+      },
+      images: [
+        "/automate/auto1.jpg",
+        "/automate/auto2.png",
+      ]
+    }
+  ],
     // Only supports 0-3 at the moment
     minor: [
       {
